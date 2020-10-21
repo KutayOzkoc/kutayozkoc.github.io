@@ -294,6 +294,9 @@ section .title::after {
     color: crimson;
     background: none;
 }
+.about .about-content p span{
+    color: crimson;
+}
 
 
 /* skills section styling */
