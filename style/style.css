@@ -205,6 +205,10 @@ section .title::after {
     margin: auto 0 auto 30px;
 }
 
+.home .home-content .text-2 span{
+    color: crimson;
+}
+
 .home .home-content .text-1 {
     font-size: 27px;
 }
